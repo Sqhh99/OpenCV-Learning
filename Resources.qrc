@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Resources/cards.jpg</file>
+        <file>Resources/lambo.png</file>
+        <file>Resources/paper.jpg</file>
+        <file>Resources/shapes.png</file>
+        <file>Resources/test.png</file>
+        <file>Resources/haarcascade_frontalface_default.xml</file>
+        <file>Resources/haarcascade_russian_plate_number.xml</file>
+    </qresource>
+</RCC>
