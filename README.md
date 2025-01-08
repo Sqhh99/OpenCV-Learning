@@ -1,5 +1,8 @@
 # OpenCV-Learning
 使用qt编写opencv做的学习小项目，大杂烩！！！
+项目环境
+qt6.6
+opencv4.9
 
 opencv的学习网站
 https://www.computervision.zone/courses/opencv-cv/
